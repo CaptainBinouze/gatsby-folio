@@ -21,7 +21,8 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  cta: '',
+  url: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -85,7 +86,15 @@ export const footerData = {
       name: 'github',
       url: '',
     },
+    {
+      id: nanoid(),
+      name: 'facebook',
+      url: '',
+    },
   ],
+  text: '',
+  author: '',
+  link: '',
 };
 
 // Github start/fork buttons
