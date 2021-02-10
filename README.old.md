@@ -1,13 +1,13 @@
 # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
-## Un modèle de site web personnel pour les développeurs
+## A clean, beautiful and responsive portfolio template for Developers
 
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
   <br>
 </h2>
 
-## Fonctionnalités
+## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
 ⚡️ One Page Layout built with React\
@@ -18,13 +18,34 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-Pour voir un exemple de démo, **[click here](https://gatsby-simplefolio.netlify.com/)**\
+To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
+To view a live example, **[click here](https://cobidev.com/)**
 
 ---
 
-## Démarrage 🚀
+## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites 📋
+
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.\
+Also you need to have installed [Gatsby CLI](https://www.gatsbyjs.org/docs/quick-start/)
+
+```
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
+gatsby-cli@2.8.22 or higher
+```
+
+Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
+
+```
+yarn@v1.21.1 or higher
+```
+
+---
 
 ## How To Use 🔧
 
@@ -218,8 +239,9 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 ## Others versions 👥
 
 [Simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
+[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
-## Technologies 🛠️
+## Technologies used 🛠️
 
 - [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
 - [GraphQL](https://graphql.org/) - Query language for APIs
@@ -229,7 +251,7 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 
 ## Authors
 
-- **Timothée Binet** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
 
 ## Status
 
